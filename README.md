@@ -1,3 +1,7 @@
 # TauroWeb
 
-Control de Inventario Tauro 2020, desde la Nube,,o de manera local pero usando Mysql y Php, ademas de Html5 y Css,, y talvez JavaScript
+Software  : Control de Inventario Tauro 2021
+Lenguajes : Html, CSS, JavaScript y PHP
+Motor Sql : MariasDb / MySql
+
+Descripción : Este repositorio tiene como objetivo, seguir el proceso de aprendizaje de PHP y lengajes anexos

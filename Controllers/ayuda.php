@@ -6,7 +6,6 @@ Class Ayuda extends Controller{
     {
         parent::__construct();
         $this->view->render('ayuda/index');
-        // echo  "<p> No exite este objeto </p>";
     }
 }
 

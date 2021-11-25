@@ -6,7 +6,6 @@ Class miError extends Controller{
     {
         parent::__construct();
         $this->view->render('error/index');
-        // echo  "<p> No exite este objeto </p>";
     }
 }
 
