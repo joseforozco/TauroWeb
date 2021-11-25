@@ -1,6 +1,6 @@
 # TauroWeb
 
-**Software**  : Control de Inventario Tauro 2021 >
+**Software**  : Control de Inventario Tauro 2021 **TauroWeb**
 
 **Lenguajes** : Html, CSS, JavaScript y PHP
 
